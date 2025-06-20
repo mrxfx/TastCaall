@@ -11,4 +11,4 @@ npm run dev
 
 ## Deploy
 
-Click 'Deploy' on [Vercel](https://vercel.com/) and select this project.
+Upload to [Vercel](https://vercel.com/) and click deploy.
